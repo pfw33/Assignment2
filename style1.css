@@ -1,0 +1,44 @@
+body {margin: auto;
+	  background-color: #CEFFF9;
+	  
+	  width: 1440px;}
+
+div {width: 100%;
+	 
+	 height: 600px;}
+
+.one h1{ font-family: 'Ubuntu', sans-serif;
+		text-align: center;
+		font-size: 35px;
+	}
+
+.one p{font-family: 'Quicksand', sans-serif;
+	   text-align: center;
+	   font-size: 15px;
+	   line-height: 20px;
+	}
+
+.two h2{text-align: center;
+		font-family: 'Acme', sans-serif;
+		font-size: 35px;
+	}
+
+		
+	
+.two p{text-align: center;
+	  line-height: 20px;
+	  font-family: 'Indie Flower', cursive;
+	  font-size: 15px;
+	}
+
+.three h3{text-align: center;
+	   font-family: 'Righteous', cursive;
+	   font-size: 35px;
+	}
+
+.three p{text-align: center;
+	 font-family: 'News Cycle', sans-serif;
+	 font-size: 15px;
+	 padding-top: -30px;
+
+	}
